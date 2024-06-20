@@ -1,1 +1,1 @@
-pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime
+nvidia/cuda:12.1.0-runtime-ubi8
