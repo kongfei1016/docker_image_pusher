@@ -1,1 +1,1 @@
-nvidia/cuda:12.1.0-runtime-ubi8
+tfra/nosla-cuda12.2-cudnn8.9-ubuntu20.04-manylinux2014-python3.10
