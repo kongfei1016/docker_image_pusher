@@ -1,1 +1,1 @@
-tfra/nosla-cuda12.2-cudnn8.9-ubuntu20.04-manylinux2014-python3.10
+paddlepaddle/paddle:2.6.1-gpu-cuda12.0-cudnn8.9-trt8.6
