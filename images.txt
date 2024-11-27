@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.1
+canal/canal-server:v1.1.7
